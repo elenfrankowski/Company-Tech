@@ -27,6 +27,3 @@ O projeto tem como objetivo apresentar os **serviços, valores e áreas de atua�
 ## 📱 Visualização
 
 O site se adapta automaticamente a dispositivos **desktop, tablet e mobile**, garantindo uma boa experiência em qualquer tamanho de tela.
-
-   git clone https://github.com/seuusuario/company-tech.git
-
